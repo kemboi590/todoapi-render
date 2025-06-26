@@ -1,0 +1,128 @@
+[
+  {
+    "id": 21,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:17.685Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 22,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:18.986Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 23,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:19.721Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 25,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:20.872Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 26,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:21.380Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 27,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:21.847Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 28,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:22.182Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 29,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:22.977Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 30,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:24.197Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 31,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:24.727Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 32,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:25.080Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 33,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:25.458Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 34,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-06T14:34:26.198Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  },
+  {
+    "id": 36,
+    "userId": 1,
+    "todoName": "another todo",
+    "createdAt": "2025-06-09T10:07:58.282Z",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "description": "for the second user",
+    "isCompleted": true
+  }
+]
